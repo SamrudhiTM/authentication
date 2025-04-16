@@ -1,3 +1,8 @@
+#Output
+
+![Uploading Screenshot (211).png…]()
+
+
 # authentication
 # Full Stack OAuth + Manual Auth System
 
@@ -115,3 +120,5 @@ npm start
 - Apple OAuth is **mocked** using dummy strategy for testing.
 - Easily extendable for real Apple login when Developer Account is available.
 - Uses JWTs to secure frontend/backend communication.
+
+
