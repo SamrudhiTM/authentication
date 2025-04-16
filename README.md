@@ -3,6 +3,14 @@
 # authentication
 # Full Stack OAuth + Manual Auth System
 
+
+Snapshots
+
+![Image](https://github.com/user-attachments/assets/425b5584-e1e4-456a-b773-3a60bb3e31bc)
+![Image](https://github.com/user-attachments/assets/af191d6b-1332-4e27-a63f-c99285a6a5c9)
+![Image](https://github.com/user-attachments/assets/5aeffef2-cbf8-49d2-871c-0a74d2d6a487)
+![Image](https://github.com/user-attachments/assets/1ec06d19-fbd4-40b2-acb2-43791cbdb460)
+
 This project is a full-stack authentication system that supports:
 
 - **OAuth Login** via Google, Facebook, and Apple (Mock)
