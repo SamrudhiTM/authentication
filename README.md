@@ -1,6 +1,3 @@
-#Output
-
-![Uploading Screenshot (211).png…]()
 
 
 # authentication
